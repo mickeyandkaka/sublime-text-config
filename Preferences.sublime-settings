@@ -1,0 +1,22 @@
+{
+    "font_size": 11,
+    "ignored_packages":
+    [
+    ],
+    "translate_tabs_to_spaces": true,
+    // 使光标闪动更加柔和
+    "caret_style": "phase",
+    // 高亮有修改的标签
+    "highlight_modified_tabs": true,
+    // 添加行宽标尺
+    "rulers": [80, 100],
+    // 显示空白字符p
+    // "draw_white_space": "all",
+    // 保存时自动去除行末空白
+    "trim_trailing_white_space_on_save": true,
+    // 保存时自动增加文件末尾换行
+    "ensure_newline_at_eof_on_save": true,
+    // "word_wrap": true,
+    "wrap_width": 80,
+    "highlight_line": true
+}
